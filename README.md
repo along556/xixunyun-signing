@@ -1,4 +1,4 @@
-# 习讯云自动签到，本项目包含js版本和py版本
+# 习讯云自动签到，本项目包含js版本py版本
 项目地址：https://github.com/kemomi/xixunyun-signing
 
 # [python版本请看这里](https://github.com/kemomi/xixunyun-signing/tree/main/README_py.md)
